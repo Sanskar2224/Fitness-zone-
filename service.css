@@ -1,0 +1,23 @@
+
+. cointainer
+{
+ max-width: 50px;
+  margin: 600px auto;
+  padding: 10px;
+}
+  
+img
+{
+   float:left;
+   width: 600px;
+   height: 300px;
+   padding: 0 10px 0 0;
+}
+
+.text
+{
+   text-align: justify;
+   font-family: verdana;
+    padding-left: 40px;
+    padding-right: 40px;
+}
